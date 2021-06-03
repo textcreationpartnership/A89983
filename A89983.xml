@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new marriage, between Mr. King, and Mrs. Parliament. The banes forbidden by Captaine Army, with the grounds and reasons he gives for the same. Come, come away unto this happy wedding, ... and through all nations shall your honor ring.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89983</idno><idno type="EEBO-CITATION">99864974</idno>
+  <idno type="VID">117207</idno>
+  <idno type="EEBO-PROQUEST">2248534771</idno>
+  
+            <idno type="STC">Wing N665</idno>
+            <idno type="STC">Thomason E526_34</idno>
+            <idno type="STC">ESTC R205658</idno>
+            <idno type="PROQUEST">99864974</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864974e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117207)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E526[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new marriage, between Mr. King, and Mrs. Parliament. The banes forbidden by Captaine Army, with the grounds and reasons he gives for the same. Come, come away unto this happy wedding, ... and through all nations shall your honor ring.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare M Dc xLviii. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The roman numeral date in the imprint is made with turned C's.</note>
+                  <note>Annotation on Thomason copy: "Nou. 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117207:1"/>
+            <p>A New Marriage, Between Mr. KING, AND <hi>Mrs.</hi> PARLIAMENT.</p>
+            <p>The <hi>Banes</hi> forbidden by Captaine ARMY, with the Grounds and Reasons he gives for the same.</p>
+            <q>
+               <l>Come, come away unto this happy Wedding,</l>
+               <l>All Loyall Souls, expect no other bidding:</l>
+               <l>Unite their hearts in bands of <hi>PEACE</hi> and <hi>LOVE,</hi>
+               </l>
+               <l>And JOVE will showre downe Blessings from above:</l>
+               <l>They are out-ask'd, all parties are agree'd,</l>
+               <l>Save those from whence your <hi>Miseries</hi> proceed;</l>
+               <l>Subdue such Wandring <hi>Rebells</hi> to their KING,</l>
+               <l>And through all Nations shall your Honor ring.</l>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>Tudor rose surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Irish harp surmounted by a crown</figDesc>
+               </figure>
+            </p>
+            <p>
+               <add>nou. 30th</add> Printed in the Yeere MDCxLviii.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117207:2"/>
+            <pb n="3" facs="tcp:117207:2"/>
+            <head>
+               <hi>A N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w Marriage,</hi> &amp;c.</head>
+            <p>Let all that fear God, and honor the King, and desire to yeeld obedience to no other Power then what is ordained of GOD, and to be freed from the Tyranny of the sword, and to lead qui<g ref="char:EOLhyphen"/>et and peaceable lives under his Majesties Government, sub<g ref="char:EOLhyphen"/>scribe their hands for King CHARLES, who is by undoubted right authorized by God to be King of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and hath no superiour to chastise or to punish him, but God alone: Therefore whereas all Loyall Subjects are bound by a solemn Oath not to seek to Depose, or murder his Majestie, or any wayes to offer violence unto his sacred Person, Crown and Dignity; but on the contrary, to defend him against all Con<g ref="char:EOLhyphen"/>spiracies, to reveale all Treasons against His Majestie, and bear unto Him Faith and true Allegiance. And whosoever shall neg<g ref="char:EOLhyphen"/>lect his duty herein, or dissent from the rest, and will have no King, nor yeeld obedience to His Majestie, that their Names and Places of abode be taken in writing that they may be proceeded against as Traytors and Rebells. But if they can alledge or de<g ref="char:EOLhyphen"/>clare any crime or impeciment, that King <hi>Charles</hi> shall no longer be King, or that He and His Parliament may not be joyned toge<g ref="char:EOLhyphen"/>ther, Let them forthwith make their Allegations good, or els<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be accounted Traytors, and sedi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Slanderers for ever after. And because the Persons to be married dwell in divers Parishes, therefore let these Banes be asked throughout the Three King<g ref="char:EOLhyphen"/>doms, and the day appointed for solemnization of this happy Wedding; the Persons to be married, comming into the body of the Parliament-House with all their friends and neighbours: and there let all Loyall People say as followeth.</p>
+            <sp>
+               <p>
+                  <seg rend="decorInit">D</seg>Early beloved brethren, friends and Fellow-subjects, We are gathered together in the face of this Congregation, to joyn together in the bands of <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eace</hi> and Unity these two Persons, namely Mr. KING, and Mrs. <hi>Parliament,</hi> that they may become members of one Body, for the mutuall Society, helpe, ayde and assistance one of the other, for the comfort of all
+<pb n="4" facs="tcp:117207:3"/> that are subject unto their <hi>Power,</hi> as also to the terrour of such as deny or despise the same.</p>
+               <p>Therefore if any can shew any just cause why these two may not be joyned together, let them now speak, or for ever hereafter hold their peace.</p>
+            </sp>
+            <sp>
+               <speaker>Cap. <hi>Army.</hi>
+               </speaker>
+               <p>I forbid the Banes, and hold it altogether un<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awfull for these two to be joyned together for these weighty Reasons following.</p>
+               <p n="1">1. Because the said <hi>King</hi> hath a great Estate and Revenue, and We having conquered him; both he, and his Estate is become ours; and therefore we say he is a Del<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquent, and a Tray<g ref="char:EOLhyphen"/>tor to the Kingdoms trust, guilty of the murder of his Father, of the shedding of the innocen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blood of his subjects, betraying <hi>Rochel,</hi> bringing in the Spanish Fleet, granting Commissions to the Irish Rebells, raising an Army to destroy the Par iament, and much mis<g ref="char:EOLhyphen"/>chief more; which we intend to accuse him of, that so we may cut off the wicked from the Earth, because his Estate may goe in the Line of the Righteous, the men of Israel, the godly, and well affect<g ref="char:EOLhyphen"/>ed party; and therefore we hold him uncapable of Marriage, and had rather destroy the Issue he hath already, then he should marry againe, or beget more.</p>
+               <p n="2">2. It cannot be expected, that we should take so much paines to conquer, and so slightly give up what we have conquered into his hands we took it from; no, what we have, we int<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to keek, what we have no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, we intend to get, and part with nothing but for the increase of the godly, we having subdued all, all is become ours, &amp; shall be at our disposing, the King being our King, we ought to di<g ref="char:EOLhyphen"/>spose of him, Therefore we pronounce him a capitall Traytor to the Kingdom, (that's the Saints) and the grand Author of all our miseries, and will with all speed bring him to exemplar Justice for all the Treason, blood or mischief that we shall judge him to be guilty of, that so he may speedily dye without mercy, because the Estate and Revenue of the Crowne may be speedi y sequestred to sa<g ref="char:EOLhyphen"/>tisfie the longing desires of the well affected, godly and self-deny<g ref="char:EOLhyphen"/>ing Saints in the Army.</p>
+               <p n="3">3. For Mrs. <hi>Parliament,</hi> she being a woman of a light carriage, inconstant, and likely to be fruitlesse, by reason she is troubled with the consumption in her Members, the bloody Issue, and falling<g ref="char:EOLhyphen"/>sickness, about the time of our apppoach; yet considering the good service shee hath formerly done us, and now having no more need
+<pb n="5" facs="tcp:117207:3"/> of her, we commit her to the care of Dr. <hi>Period,</hi> to be speedily cu<g ref="char:EOLhyphen"/>red of her infirmities, and to be throughly purg'd, till the become all Independent, and of the <hi>New Elect,</hi> the godly and well-affected party, with whom we intend she shall joyne Issue and beget a new sanctified brood of Kings and pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nces out of the Kingdomes Army, that may Rule, Reigne and govern by the Spirit, and make them<g ref="char:EOLhyphen"/>selves <hi>Great</hi> &amp; GLORIOUS out of the destruction of the old ones; that none but the Saints may enjoy the good things of the Land, and all things may become New, and be made the more service<g ref="char:EOLhyphen"/>able to the Nations welfare, and wee honoured in being the King<g ref="char:EOLhyphen"/>doms Army, and the common peoples Treasurers, to keep their Estates for them, and pay our selves, and save our King the King<g ref="char:EOLhyphen"/>dom a labaur, so the common people being our King, we will prey upon them hereafter as we prey upon King <hi>Charles,</hi> and divide their Inheritances amongst our selves, levelling the Titular Lords and overawed Commons as we list, that Generall shall become a more honored Title then King, Lietenant Generall, then Prince, a Colo<g ref="char:EOLhyphen"/>nel shall be better then a Duke, a Major then a Marquesse, a Lief<g ref="char:EOLhyphen"/>tenant above a Lord a Sergeant better then a Knight, and and a common souldier Master to a Commoner in Parliament, to place or displace them as we shall have occasion; For these Reasons I hold this contract utterly unlawfull, renounce both parties, and forbid the Banes, and professe my selfe enemy to both; and shall doe my uttermost to bring them both to destruction.</p>
+               <p n="4">4. That her companion Mrs. <hi>London,</hi> be suddenly by us declared Delinquent, and upon the least colour of opposing us the Kingdoms Army, to be immediately plundered, and proclaimed Enemies and Traytors to the Kingdoms Army, which now i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the supreame Po<g ref="char:EOLhyphen"/>wer, and have a right to all by conquest; And therefore for these weighty Reasons, we the Kingdoms Army, the godly and Well<g ref="char:EOLhyphen"/>affected Party doe hold it utterly unlawfull that those two destroy<g ref="char:EOLhyphen"/>ers of our soveraigne Lord and King the <hi>People,</hi> should be joyned or contracted together, but be both brought to speedy Justice for all the Innocent Blood, and Treasure that hath been so lavishly <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<g ref="char:EOLhyphen"/>pended, to inrich the Committees withall. Therefore I forbid the Banes.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Common-wealth.</hi>
+               </speaker>
+               <p>Here is like to be a Kingdom well govern'd, when the sword shall sway in stead of the Scepter, the He<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>met be worne for the Crowne, Beel-coates in stead of Parli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪Roabes, the field Ordnance command Gods Ordinance, and
+<pb n="6" facs="tcp:117207:4"/> slaves, and upstart souldiers to be both Judges, and crucifiers of their King and the controwlers of a parliament, that the servant should be above his master that payes him wages, is a most wicked and preposterous thing, and not any wayes t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be suff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red; Besides what Cap. <hi>A my</hi> alledges against his King. is notoriously knowne to be the rancour and poyson of his envious, covetous and ambiti<g ref="char:EOLhyphen"/>ous m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde for fearing least we shou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d have <hi>Peace,</hi> and his Trade of Warre should be spoiled, therefore he shoots forth his venomous Arrowes, <hi>even bitter words,</hi> false Accusations, and sl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderous re<g ref="char:EOLhyphen"/>proaches against His Majestie, to draw and alienate the hearts and affections of his Subjects from him, and make Him odious unto them, that so they might defer peace cont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nue Warre, and enrich themselves by Rap<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne and plunder: Peace spoiles their Trade, they had rather want their Arreates, then want their trading; no i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l can betide them worse then peace, besides the rich plunder of the King<g ref="char:EOLhyphen"/>dome, and the blood of Loyall subjects is so sweet unto them, that they are resolved to carrowse the other odd Tuskin in blood Roy<g ref="char:EOLhyphen"/>all, and drink to the confusion of Monarcy, though they pierce all the Vessels of Honor for the same, both King, Prince, and Nob<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, as they have already done the Earl of <hi>Strafford, Canterbury, Burleigh, Lucas, Lisle,</hi> and many others, that they have already murdered, be<g ref="char:EOLhyphen"/>cause they sought to crosse their pernicious Designes, which now are made known unto us by their late monsterous <hi>Remonstrance</hi> to the parliament &amp; Kingdom, where they seem to challenge a po<g ref="char:EOLhyphen"/>wer above the King, to bring him to Tryall, and judge him, that so they may cut him off, as they have already done his Subjects: And therefore let all good people give consent to this Marriage, and to deal with Cap. <hi>Army</hi> according to his deserts, that what he would have done to others, maybe done unto himself; That he may be brought to speedy Tryall for all the Treason, Blood and mischief that he is guilty of, and whatsoever he hath forceably, and fraudulently taken from the subject, may be restored, that so Ju<g ref="char:EOLhyphen"/>stice may no more be mocked in the face of God, but they may be punished that take a reward to slay the <hi>soul of the innocent blood,</hi> and not onely remove the Land-mark, but sequester and sell Land, goods and all, stop judgement, the right of the Stranger, of them they have made Fatherlesse, and Widdowes; that smite their neigh<g ref="char:EOLhyphen"/>bours secretly. Therefore I give my consent to this Marriage, approving Peace better then Warre, Unity then Division, concord then discord; what say you Mr. <hi>Generallity of Common-People</hi> to this happy Nuptiall?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:117207:4"/>
+               <speaker>Omnes.</speaker>
+               <p>A Marriage, a Marriage, a King, a King, wee all give our consent.</p>
+            </sp>
+            <p>
+               <hi>Then let all the People Pray as followeth.</hi>
+            </p>
+            <sp>
+               <p>FRom Everlasting Parliaments, and cut-throat Armyes, from all Sedition &amp; privie Conspiracies, from Tyranny, blood, and plun<g ref="char:EOLhyphen"/>derers, from all false Doctrine &amp; Heresy, from hardness of heart, and all uncharitableness, and contempt of Gods Word and Com<g ref="char:EOLhyphen"/>mandements; F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om cheating Committees, Pursuivants, <hi>B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thel</hi> and his 40. blood-hounds, inform<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, setters, peepers, sneakers, false ac<g ref="char:EOLhyphen"/>cusers, and all other Parliament Vermin. <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>That it may please thee to Keep and Defend our gracious King CHARLES, from <hi>Fairfax, Cromw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll, Ewres, Rolf, Hammond,</hi> and a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l other Sectaries, Rebells and Hereticks, that hunt after his pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cious life. That it may please thee to indue all the Lords in Par<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iament, the Presbyterian Commons, the Lord Major of <hi>London,</hi> and both the Sheriffs, and Common-Counsell with Wisdom and Under<g ref="char:EOLhyphen"/>standing, that th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may preserve themselves, and the City from the Tyranny, and plunder of the Army, who intend to Levell their E<g ref="char:EOLhyphen"/>states; That it may please thee to bring into the Truth all such as they have caused to Erre, and are <hi>Deceived;</hi> To piety all Prisoners, Father<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess Children, Widows, all Ministers and others, that now suffer Persecution for the testimony of a good Conscience, and are desolate and oppressed, in danger, want and tribulation; and final<g ref="char:EOLhyphen"/>ly to beat down this Satannicall and Canniball Army under our feet. <hi>Wee beseech thee to hear us,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Pittifully behold our slavery and oppression, and in thy mercy speedily deliver us, as we do put our trust in thee, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>Then</hi> let the people sing Psal. 3. and Psal. 43. O God how are my Foes increast; <hi>and</hi> Judge and revenge; So read <hi>Rom.</hi> 13, and con<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude with Psal. 18. O God my strength, &amp;c.</p>
+            <p>
+               <hi>Then shall the People say,</hi>
+            </p>
+            <sp>
+               <p>Mrs. Parliament, wilt thou have this man to be thy King, to live together in the holy Estate of Obedi<g ref="char:EOLhyphen"/>ence; wilt thou love honor, keep and protect Him; forsaking all o<g ref="char:EOLhyphen"/>thers; keep thee only to Him.</p>
+            </sp>
+            <sp>
+               <speaker>Ans.</speaker>
+               <p>I will.</p>
+            </sp>
+            <p>Then shall his Crown be placed on his Royall head, have his Revenew and Lands restored, and reside at <hi>Whitehall</hi> with Freedom and Honor.</p>
+            <pb n="8" facs="tcp:117207:5"/>
+            <p> Then shall all the <hi>Common-people</hi> say.</p>
+            <sp>
+               <p>Forasmuch as King <hi>Charles</hi> and his <hi>Parliament</hi> are contracted, together, and have p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighted their Troath each to other, to live toge<g ref="char:EOLhyphen"/>ther in Peace and Unity, after Gods Ordinance, and so quietly to ru e &amp; govern the <hi>People</hi> and Kingdoms committed to their charge, therefore it is requisite, that we obey, honor, and keep their Laws, and with our Persons, Lives and estates defend them from all Trea<g ref="char:EOLhyphen"/>sonou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Plotts, and Conspiracies, Treacheries and Combinations. Affronts, or disgraces that shall be attempted against them or ei<g ref="char:EOLhyphen"/>ther of them, and all such offenders, of what ranck or quality so<g ref="char:EOLhyphen"/>ever, in Army or otherwise, to bring to exact triall, according to the Lawes of the Land in such cases provided: and moreover doe pro<g ref="char:EOLhyphen"/>mise, vow and sweare to live and die with and for them, and al<g ref="char:EOLhyphen"/>wayes to bear Faith and Allegiance unto them, and remain con<g ref="char:EOLhyphen"/>stant in these our Resolutions to our lives end.</p>
+            </sp>
+            <p>
+               <hi>Then let the People sing,</hi> Psal. 119. O all ye Nations, &amp;c.</p>
+            <p>And after this, if the Army, or any other seditious persons what<g ref="char:EOLhyphen"/>soever shall seek to make a disunion between these parties so joyned together, let King and Parliament declare themselves unto the Lord Major and Comon Counsell of the City of <hi>London,</hi> and Sheriffe <hi>Browne</hi> shall be forthwith supplyed at 12. houres warning with an Army of 20000. armed compleat, and in 24. houres, as many more, to chastise all such seditious <hi>Cora<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and rebellious <hi>She<g ref="char:EOLhyphen"/>ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that blow the Trumpet of Schisme and Sedition, on purpose to distract and amuse the people, and to rent the Kingdome from his Majestie, and to make it their owne; that they might for ever crush the People by cruell Oppressions, in an Insolent and Tyran<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Goverment by the sword; which makes them at this time use all the slights of the old Sectary Satan to advance their Pride and am<g ref="char:EOLhyphen"/>mition, break the reynes of all Government, sow the tares of Sedi<g ref="char:EOLhyphen"/>tion against their most vertuous and Religious King, and his most Royal Stock, ungraciously, and ungratefully plotting and contriving their ruine, even in the time of the Treaty, when the people expect the Issue thereof, Peace and prosperity, and a happy period of all dissentions and civill Discords, that have so soon ruined this but lately flourishing Kingdome. But now, if we misse of <hi>Peace,</hi> His Majesties is guiltlesse, and destruction lies at our very doores, there<g ref="char:EOLhyphen"/>fore let us be valiant, and rather defend our selves like men, then basely &amp; cowardly, to yeeld up our King, Religion, Lawes Lib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties and purses to the fury of a handfull of plundering Souldiers.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
